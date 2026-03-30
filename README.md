@@ -8,8 +8,8 @@ This repository contains my Python practice problems and solutions.
 - Reverse Number
 - Two Sum
 - Palindrome
-
-## 🚀 Goal
+-time based greeting.py
+  ## 🚀 Goal
 To improve problem solving skills and prepare for placements.
 
 ---
